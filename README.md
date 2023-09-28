@@ -40,7 +40,7 @@ Berikut adalah langkah-langkah dasar untuk mengunduh, mengonfigurasi, dan menjal
 1. **Klon Repo**: Klon repo ini ke komputer Anda dengan perintah berikut:
 
    ```bash
-   git clone https://github.com/Ibnuardhian/Gin-restapi.git
+   git clone https://github.com/Ibnuardhian/Gin-restapi
    ```
 
 2. **Konfigurasi Database**: Konfigurasi database Anda di dalam file `config/config.go`. Anda harus mengganti detail koneksi sesuai dengan database yang Anda gunakan.
