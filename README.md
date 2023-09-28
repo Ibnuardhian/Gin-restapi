@@ -1,5 +1,3 @@
-Berikut adalah contoh file README yang komprehensif untuk Git repo "Gin-restapi" yang merupakan sebuah API untuk CRUD produk ke database:
-
 # Gin-restapi: API CRUD Produk
 
 Gin-restapi adalah sebuah aplikasi RESTful API yang memungkinkan Anda untuk melakukan operasi CRUD (Create, Read, Update, Delete) terhadap data produk di dalam database. Aplikasi ini dibangun menggunakan framework web Go yang populer, yaitu Gin.
