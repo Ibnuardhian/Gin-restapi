@@ -13,9 +13,6 @@ Gin-restapi adalah sebuah aplikasi RESTful API yang memungkinkan Anda untuk mela
 - [Konfigurasi](#konfigurasi)
 - [Endpoints](#endpoints)
 - [Contoh Penggunaan](#contoh-penggunaan)
-- [Pertanyaan Umum](#pertanyaan-umum)
-- [Kontribusi](#kontribusi)
-- [Lisensi](#lisensi)
 
 ## Pengenalan
 
