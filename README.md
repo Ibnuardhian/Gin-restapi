@@ -70,10 +70,10 @@ Anda dapat mengkonfigurasi aplikasi ini dengan mengedit file `config/config.go`.
 Berikut adalah daftar endpoint yang tersedia:
 
 - `GET /products`: Mendapatkan daftar semua produk.
-- `GET /products/{id}`: Mendapatkan detail produk berdasarkan ID.
-- `POST /products`: Membuat produk baru.
-- `PUT /products/{id}`: Mengupdate produk berdasarkan ID.
-- `DELETE /products/{id}`: Menghapus produk berdasarkan ID.
+- `GET /product/{id}`: Mendapatkan detail produk berdasarkan ID.
+- `POST /product`: Membuat produk baru.
+- `PUT /product/{id}`: Mengupdate produk berdasarkan ID.
+- `DELETE /product/{id}`: Menghapus produk berdasarkan ID.
 
 ## Contoh Penggunaan
 
